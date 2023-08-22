@@ -1,6 +1,6 @@
 👋 Hi there, I’m Sandip Kalekar.
 
-👀 I’m interested in Mern Stack .
+👀 I’m interested in MERN Stack .
 
 🌱 Skills: React Html CSS Javascript Nodejs Express.
 
