@@ -2,7 +2,7 @@
 
 👀 I’m interested in MERN Stack .
 
-🌱 Skills: React Html CSS Javascript Nodejs Express.
+🌱 Skills: HTML, CSS, Javascript, React, Redux, Nodejs, Express.
 
 💞️ I’m looking to collaborate on React, Javascript, Nodejs, Express js Projects.
 
